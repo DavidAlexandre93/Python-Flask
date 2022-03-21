@@ -1,0 +1,2 @@
+# Definindo outra porta no momento de executar o flask: 
+flask run -p 5001
